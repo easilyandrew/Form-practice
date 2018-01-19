@@ -31,7 +31,7 @@ ul {
 }
 
 .wrapper {
-  box-shadow: 0 0 20px 0 rgba(72, 94, 116, 0.7);
+  box-shadow: 0 0 20px rgba(72, 94, 116, 0.7);
 }
 
 .wrapper > *{
